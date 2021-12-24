@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. My Favourite Places to visit in India:
+   * TAJ MAHAL
+   * HAWA MAHAL
+   * MYSORE PALACE
+   * GOLDEN TEMPLE
+   * NATIONAL PARKS 
